@@ -30,6 +30,7 @@ public class day1 {
 
 //父类
 class Father{
+    // 静态修饰的 优先级相同  执行顺序 按 从上到下的顺序。
     static String field="father field";
     static{
         System.out.println("this is father's static methods ");
