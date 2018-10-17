@@ -21,7 +21,7 @@ public class day3 {
     final  String str;
 
 
-    
+
     static {
         b=6.6;
     }
